@@ -1,0 +1,6 @@
+{
+  "name": "TwinToon AI",
+  "description": "Imagine It. Create It. Make It Go Viral. The premier AI creator studio for cartoon prompts, video scripts, Nigerian comedy writing, voiceover directions, viral content ideas, and social media captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
