@@ -179,7 +179,9 @@ export default function App() {
           />
         )}
 
-        {activeTab === 'comedy' && (
+        )}
+
+{activeTab === 'voice' && (
           <ComedyStudio
             onCopyText={handleCopyText}
             onSaveToHistory={(output, inputSummary) =>
