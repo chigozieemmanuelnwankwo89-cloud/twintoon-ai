@@ -178,7 +178,6 @@ export default function App() {
             }
           />
         )}
-
         {activeTab === 'comedy' && (
           <ComedyStudio
             onCopyText={handleCopyText}
@@ -192,7 +191,7 @@ export default function App() {
               )
             }
           />
-                )}
+        )}
 
         {activeTab === 'voice' && (
           <VoiceStudio
